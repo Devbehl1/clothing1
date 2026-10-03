@@ -1,0 +1,19 @@
+{
+  "app": {
+    "[project]/app/custom/page": [
+      "static/media/9e9f04e3c37952ab-s.p.0pan85mumqyf3.woff2",
+      "static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/9e9f04e3c37952ab-s.p.0pan85mumqyf3.woff2",
+      "static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2"
+    ],
+    "[project]/app/shop/page": [
+      "static/media/9e9f04e3c37952ab-s.p.0pan85mumqyf3.woff2",
+      "static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
